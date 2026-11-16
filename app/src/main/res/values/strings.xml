@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yezdi Dash</string>
+    <string name="brand_badge">YEZDI ADVENTURE</string>
+    <string name="unit_kmh">KM/H</string>
+    <string name="unit_km">KM</string>
+    <string name="unit_rpm">RPM</string>
+    <string name="unit_celsius">°C</string>
+    <string name="unit_volts">V</string>
+    <string name="label_odo">ODO</string>
+    <string name="label_trip_a">TRIP A</string>
+    <string name="label_trip_b">TRIP B</string>
+    <string name="label_dte">DTE</string>
+    <string name="label_fuel">FUEL</string>
+    <string name="label_coolant">COOLANT</string>
+    <string name="label_ambient">AIR</string>
+    <string name="label_battery">BATTERY</string>
+    <string name="label_gear">GEAR</string>
+    <string name="label_abs">ABS</string>
+    <string name="label_brightness">BRIGHTNESS</string>
+    <string name="label_music">MEDIA BT</string>
+    <string name="label_call">CALL HUD</string>
+    <string name="label_switchgear">HANDLEBAR TOGGLE INPUTS</string>
+    <string name="side_stand_warning">SIDE STAND DOWN</string>
+    <string name="side_stand_interlock">STAND DOWN — ENGINE INTERLOCK</string>
+    <string name="hazard_active">HAZARD ON</string>
+    <string name="incoming_call_title">INCOMING CALL</string>
+    <string name="active_call_title">CALL CONNECTED</string>
+    <string name="btn_attend">ATTEND</string>
+    <string name="btn_decline">DECLINE</string>
+    <string name="btn_end_call">END CALL</string>
+    <string name="btn_sim_call">TEST CALL</string>
+    <string name="btn_reset">HOLD SET TO RESET</string>
+    <string name="label_navigation">GOOGLE MAPS NAV</string>
+    <string name="btn_open_gmaps">OPEN GOOGLE MAPS</string>
+    <string name="btn_pick_destination">PICK ROUTE</string>
+</resources>

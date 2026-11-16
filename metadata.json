@@ -1,0 +1,6 @@
+{
+  "name": "Yezdi Dash",
+  "description": "Yezdi Adventure rally TFT motorcycle dashboard with vehicle toggle switchgear, telemetry, ABS, ride modes, brightness, music, and call HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
